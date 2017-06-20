@@ -1,0 +1,26 @@
+{
+  "name": "email-public",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "mocha"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "email",
+    "public",
+    "private",
+    "private email",
+    "public email",
+    "email service"
+  ],
+  "author": "Konstantin Metto <met9127@gmail.com (http://unicore.by)>",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2"
+  }
+}
