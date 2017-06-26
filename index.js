@@ -1,3 +1,5 @@
+"use strict";
+
 var services = require("./emails.js");
 
 module.exports = function isPublic(email){

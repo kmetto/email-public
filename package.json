@@ -22,5 +22,6 @@
   "devDependencies": {
     "chai": "^4.0.2",
     "mocha": "^3.4.2"
-  }
+  },
+  "repository": "https://github.com/kmetto/email-public"
 }
